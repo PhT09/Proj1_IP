@@ -1,4 +1,4 @@
-## Tiểu luận 1 - Nhóm 6
+## Tiểu luận 1 - Nhóm 5
 - Giảng viên hướng dẫn: **Võ Quang Hoàng Khang**
 -  Môn: Xử lý ảnh
 - Thành viên: <br>
